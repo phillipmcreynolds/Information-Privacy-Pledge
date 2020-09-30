@@ -1,0 +1,72 @@
+/**
+ * @document Don't Just "Don't Be Evil" Manifesto
+ * @author Phillip McReynolds
+ * @license MIT
+ * /
+ 
+Let's face it, we've lost control. We've lost control of our information; we've lost
+control over the internet; we've lost control over our societies. Social media is a
+mess, and lots of people complain about the disinformation and fonenting of hatred.
+But that's just because it's visible. Everyone see's that going on. 
+
+A much more insidious threat lurks in the phenomenon sometimes known as "big data"
+(or "data mining", etc.) and that threat is mostly hidden, lurking in the humming,
+dark hearts of data centers worldwide. Not that some people aren't concerned about
+this phenomenon: companies taking our data, crunching our data, surreptitiously
+influencing our behavior and selling that influence to whomever can pay.
+
+But it is just so easy to click through the User Agreement (which no one reads).
+And even if we were to agree to it, most people would simply click "I Agree" anyway
+because, as they see it, they have no choice. The app they want to use is useful,
+or important, or required by their business or other organization that is important
+to them (perhaps even their family and social network). So they make the choice,
+even when there's really no choice. 
+
+And people appreciate the model: I can use this app for "free", simply by giving
+consent for these companies to use my data as they see fit, within reason.
+
+But it's worth asking: Is the app really "free"? Is what's being done with our data
+really "within reason"? And even if it is now, will it always be? Once our data has
+been given up it is gone forever. Not only that, it is amalgamated with countless
+other data to build increasingly precise models of us with respect to our commercial,
+political, and even personal behavior.
+
+However, it doesn't have to be this way, at least not when there are alternatives to
+this  model. Our app is committed to providing an alternative to this model, to being
+part of the solution, not the problem.
+
+Yes, we are in the information business. (Our industry is still occasionally called
+"information technology", after all. But the difference with our app, our company,
+is what we will and will not do with that information, your information.
+
+Yes, we need to collect some information to provide services that you, evidently,
+find useful, at least insofar as you've gotten this far into this app's documentation.
+However, here's what we will and won't do with your information:
+
+    We will not share any of your information with advertisers, other businesses,
+    or anyone that you don't specify.
+    
+    Of course, advertisers and businesses aren't the only parties interested in
+    your information. Governments are as well, and often the companies that
+    provide you services will keep your information on hand "in order to
+    refine and improve the services they offer to you".
+    
+    Obviously, we must operate within the law, so that if a government demands
+    we give them your information and they are legally entitled to do so, we must
+    hand it over. However, for this reason:
+    
+        Where possible, all of your information will be kept on your mobile device,
+        not on a server.
+    
+    When information must be stored on a server, it will be maintained there only
+    long enough to carry out a function necessary to provide a specific service to
+    you (that is, to do something that you've asked us to do). 
+    
+    We won't keep that information one iota longer than is absolutely necessary to
+    provide the service that you have requested, and we will delete it when that 
+    service has been provided.
+    
+This is our pledge to you. It's not enough to just "Don't be evil." We can do better
+than that.
+
+
